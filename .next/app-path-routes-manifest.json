@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/robots.txt/route": "/robots.txt",
+  "/admin/page": "/admin",
+  "/blog/page": "/blog",
+  "/giris/page": "/giris",
+  "/gizli-admin/page": "/gizli-admin",
+  "/hesaplama-arsivi/page": "/hesaplama-arsivi",
+  "/kayit/page": "/kayit",
+  "/konteyner-takip/page": "/konteyner-takip",
+  "/mobil-uygulama/page": "/mobil-uygulama",
+  "/page": "/",
+  "/admin/login/page": "/admin/login",
+  "/limanlar/[limanId]/page": "/limanlar/[limanId]",
+  "/limanlar/page": "/limanlar",
+  "/hesaplama/page": "/hesaplama"
+}

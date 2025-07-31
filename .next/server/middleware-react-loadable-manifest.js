@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"app/hesaplama/page.tsx -> @/components/hesaplama-form":{"id":8593,"files":["static/chunks/598-c1b2907676809f3d.js","static/chunks/285-5b0bb4599b5fbbaa.js","static/chunks/200-fc40a71ca29e793f.js","static/chunks/959-2c5ec1c3283f473b.js","static/chunks/600.c262f41b7b23968e.js","static/chunks/355.5f52e8252a2c399f.js"]}}';

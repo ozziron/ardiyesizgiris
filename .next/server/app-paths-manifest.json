@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/admin/page": "app/admin/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/giris/page": "app/giris/page.js",
+  "/gizli-admin/page": "app/gizli-admin/page.js",
+  "/hesaplama-arsivi/page": "app/hesaplama-arsivi/page.js",
+  "/kayit/page": "app/kayit/page.js",
+  "/konteyner-takip/page": "app/konteyner-takip/page.js",
+  "/mobil-uygulama/page": "app/mobil-uygulama/page.js",
+  "/page": "app/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/limanlar/[limanId]/page": "app/limanlar/[limanId]/page.js",
+  "/limanlar/page": "app/limanlar/page.js",
+  "/hesaplama/page": "app/hesaplama/page.js"
+}
