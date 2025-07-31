@@ -1,0 +1,8 @@
+logiflow-backend/
+logiflow-frontend/node_modules/
+logiflow-frontend/.next/
+*.log
+.env
+.env.local
+.DS_Store
+

@@ -1,0 +1,14 @@
+{
+  "name": "logiflow-platform",
+  "version": "1.0.0",
+  "description": "Kapsamlı lojistik hesaplama platformu",
+  "scripts": {
+    "build": "cd logiflow-frontend && npm install && npm run build",
+    "dev": "cd logiflow-frontend && npm run dev",
+    "start": "cd logiflow-backend && python src/main.py"
+  },
+  "keywords": ["lojistik", "ardiye", "detention", "konteyner", "hesaplama"],
+  "author": "LogiFlow Team",
+  "license": "MIT"
+}
+

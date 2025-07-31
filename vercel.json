@@ -1,0 +1,20 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://logiflow-backend.vercel.app/api/$1"  // Backend'in dağıtıldığı URL
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/logiflow-frontend/$1"
+    }
+  ],
+  "builds": [
+    {
+      "src": "logiflow-frontend/package.json",
+      "use": "@vercel/static-build",
+      "config": { "outputDirectory": "dist" }
+    }
+  ]
+}
+
