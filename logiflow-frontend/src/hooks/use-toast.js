@@ -1,6 +1,6 @@
 import { toast } from "sonner";
 
-export function useToast() {
+export default function useToast() {
   return { toast };
 }
 
