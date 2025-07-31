@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://logiflow-backend.vercel.app/api/$1"  // Backend'in dağıtıldığı URL
+      "destination": "https://logiflow-backend.vercel.app/api/$1"
     },
     {
       "source": "/(.*)",
