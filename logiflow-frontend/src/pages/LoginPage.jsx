@@ -5,7 +5,7 @@ import { Button } from '../components/ui/button'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../components/ui/card'
 import { Input } from '../components/ui/input'
 import { Label } from '../components/ui/label'
-import useToast from '../hooks/use-toast.js'
+import { useToast } from '../hooks/use-toast.js'
 import { LogIn } from 'lucide-react'
 
 const LoginPage = () => {
